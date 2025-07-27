@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MyMoneyManagerApp",
+    "slug": "MyMoneyManagerApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon4.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/favicon4.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon4.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.math00.MyMoneyManagerApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon4.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d5dc2b67-deac-4d61-be42-4187b6caa8e8"
+      }
+    }
+  }
+}
