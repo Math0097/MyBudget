@@ -1,6 +1,8 @@
 💰 Money Manager
+
 A modern React Native personal finance management application with advanced salary allocation and fund reallocation features.
 ✨ Features
+
 🏦 Account Management
 
 Custom account creation with distinctive names and colors
