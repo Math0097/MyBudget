@@ -4,11 +4,11 @@
     "slug": "MyMoneyManagerApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/favicon4.png",
+    "icon": "./assets/favicon_final.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/favicon4.png",
+      "image": "./assets/favicon_final.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,14 +17,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/favicon4.png",
+        "foregroundImage": "./assets/favicon_final.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.math00.MyMoneyManagerApp"
     },
     "web": {
-      "favicon": "./assets/favicon4.png"
+      "favicon": "./assets/favicon_final.png"
     },
     "extra": {
       "eas": {
